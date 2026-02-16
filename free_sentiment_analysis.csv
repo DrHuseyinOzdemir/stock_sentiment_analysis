@@ -1,0 +1,6 @@
+ticker,composite_score,signal,stocktwits_score,stocktwits_bullish,stocktwits_bearish,stocktwits_total,analyst_score,analyst_recommendation,target_upside,num_analysts,momentum_score,news_score,news_count,reddit_mentions,reddit_bullish,reddit_bearish,total_buzz
+NVDA,64.56410256410257,HOLD,50,0,0,0,100,strong_buy,38.90176168070904,56,50,50.0,10,25,11,2,135
+AMD,61.583333333333336,HOLD,50,0,0,0,95,buy,38.52771078525951,46,40,50.0,10,25,11,1,135
+AAPL,60.25,HOLD,50,0,0,0,80,buy,14.217780905465624,40,55,50.0,10,25,10,2,135
+PLTR,60.19444444444444,HOLD,50,0,0,0,95,buy,44.52509702457957,24,35,50.0,10,25,8,1,135
+TSLA,52.16666666666667,HOLD,50,0,0,0,50,hold,1.0274530471444967,40,50,50.0,10,25,11,1,135
